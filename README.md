@@ -24,23 +24,23 @@
 ## 🖼️ Screenshots
 
 <p float="left">
-  <img src="media/screen1.png" width="220"/>
-  <img src="media/screen2.png" width="220"/>
-  <img src="media/screen3.png" width="220"/>
+  <img src="media/screen1.jpg" width="220"/>
+  <img src="media/screen2.jpg" width="220"/>
+  <img src="media/screen3.jpg" width="220"/>
 </p>
 <p float="left">
-  <img src="media/screen4.png" width="220"/>
-  <img src="media/screen5.png" width="220"/>
-  <img src="media/screen6.png" width="220"/>
+  <img src="media/screen4.jpg" width="220"/>
+  <img src="media/screen5.jpg" width="220"/>
+  <img src="media/screen6.jpg" width="220"/>
 </p>
 <p float="left">
-  <img src="media/screen7.png" width="220"/>
-  <img src="media/screen8.png" width="220"/>
-  <img src="media/screen9.png" width="220"/>
+  <img src="media/screen7.jpg" width="220"/>
+  <img src="media/screen8.jpg" width="220"/>
+  <img src="media/screen9.jpg" width="220"/>
 </p>
 <p float="left">
-  <img src="media/screen10.png" width="220"/>
-  <img src="media/screen11.png" width="220"/>
+  <img src="media/screen10.jpg" width="220"/>
+  <img src="media/screen11.jpg" width="220"/>
 </p>
 
 ---
