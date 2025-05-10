@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "255135298055",
+    "project_id": "safehaven-35e47",
+    "storage_bucket": "safehaven-35e47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255135298055:android:4426c9714ea1414401b0a2",
+        "android_client_info": {
+          "package_name": "com.example.safehaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255135298055-bl4mnirs17n8s872kr6ote7h663g9j7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safehaven",
+            "certificate_hash": "d4c835d79ba79fbb8ac132db73b57f0769fdd3d3"
+          }
+        },
+        {
+          "client_id": "255135298055-3v34tpprfecst1qd82qupl6epj6ujibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqTqVeHmkQ-nY-k7DemOBll5i56QOAIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255135298055-3v34tpprfecst1qd82qupl6epj6ujibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255135298055-elgr2fqd49umigr7p48i258r2l0cmlq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safehaven"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
