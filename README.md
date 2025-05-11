@@ -75,7 +75,7 @@
 ## 👨‍💻 Author
 
 **David Amos**  
-Email: (davitelloamos@gmail.com)
+Email: davitelloamos@gmail.com
 
 ---
 
